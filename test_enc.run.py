@@ -5,7 +5,6 @@ if Exception:
     e = None
     exit(str(e))
     e = None
-    del e
-    return None
+    del
     e = None
     del e
